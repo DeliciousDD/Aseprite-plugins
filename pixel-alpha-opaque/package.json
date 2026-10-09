@@ -1,0 +1,21 @@
+{
+  "name": "pixel-alpha-opaque",
+  "displayName": "Alpha 不透明",
+  "description": "将当前图层中所有非透明像素的 Alpha 设为 255。",
+  "version": "1.0.0",
+  "author": {
+    "name": "Local"
+  },
+  "publisher": "local",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./pixel-alpha-opaque.lua"
+      }
+    ]
+  }
+}

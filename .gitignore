@@ -1,0 +1,7 @@
+# Codex review artifacts
+.codex-review/
+
+# Aseprite user data and editor backups
+*.aseprite-data
+*.bak
+*.tmp
